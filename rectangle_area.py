@@ -1,6 +1,6 @@
 # Simple Python Project: Calculate the Area of a Rectangle
 
-# Function to calculate the area of a rectangle
+# Function to calculate the area of a rectangl
 def calculate_rectangle_area(length, width):
     return length * width
 
